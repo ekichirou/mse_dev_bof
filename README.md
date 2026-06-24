@@ -1,6 +1,6 @@
 # mse_dev_bof
 
-This is a proof of concept demonstrating an Edge cookie extraction technique using remote debugging through a BOF.
+This is a proof of concept demonstrating an Edge cookie extraction technique using remote debugging through a BOF.<br>
 **NOTE:** The BOF opens a remote debugging port on `7005`.
 
 ## Compilation
